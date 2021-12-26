@@ -8,4 +8,4 @@ can easily turn your toothbrush into a handheld massager or cordless drill.
 Please ensure attachments are removed before brushing your teeth. 
 Due to the massager attachment, this device cannot be returned for a refund.
 
-The toothbrush needs two AA batteries and comes with two replacemenent heads. 
+The toothbrush needs two AA batteries and comes with two replacement heads. 
