@@ -1,8 +1,16 @@
-This documentation describes how to use the Pavel automated
+<<<<<<< HEAD
+This documentation describes how to use the Pavel automatic
+=======
+This documentation describes how to use the Karel robotic
+>>>>>>> 9fde36585164301d1fb541a089c93ae60fc19046
 toothbrush.
 
 Note that this toothbrush is totally safe to use for children,
 adults, pets, wildlife, and trees.
 
-The Pavel automated toothbrush does come with attachments that 
+<<<<<<< HEAD
+The Pavel automatic toothbrush does come with attachments that 
+=======
+The Karel robotic toothbrush does come with attachments that 
+>>>>>>> 9fde36585164301d1fb541a089c93ae60fc19046
 can easily turn your toothbrush into a handheld massager or cordless drill. 
